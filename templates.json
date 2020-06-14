@@ -1,10 +1,10 @@
 
 { "comment": "",
  
- "plan": {
-  "name": "plan.png",
-  "x": 0,  "y": 0,
-  "width": 0, "height": 0
+ "atam": {
+  "name": "tr_atam.png",
+  "x": 1567,  "y": -233,
+  "width": 249, "height": 183
 }
  
  ,"plan": {
