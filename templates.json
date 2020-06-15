@@ -7,6 +7,12 @@
   "width": 249, "height": 183
  }
  
+ ,"zafer": {
+  "name": "tr_zafer.png",
+  "x": 2328,  "y": -1238,
+  "width": 345, "height": 244
+ }
+ 
  ,"bayrak": {
   "name": "tr_bayrak.png",
   "x": -4096,  "y": 3295,
